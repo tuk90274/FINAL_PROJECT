@@ -1,0 +1,38 @@
+a:link {
+    color: #FFFFFF;
+}
+a:visited {
+    color: #8C8BDF;
+}
+a:hover {
+    color: #A074FF
+}
+a: active {color:#E4D2D2;}
+
+
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url(pic1.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+
+.header {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: center;
+}
+.navigation {
+    color: #FFFFFF;
+    background-color: #000000;
+}
+.bodymain {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: center;
+}
